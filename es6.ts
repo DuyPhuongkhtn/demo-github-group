@@ -2,7 +2,7 @@
 // const: hằng số, giá trị của nó không thay đổi
 const PI = 3.14;
 const MAX_USER = 100;
-
+console.log("test conflict");
 // 2: arrow function
 // ES5 - cũ
 // function addTwoNumber(a: number, b: number): number {
